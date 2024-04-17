@@ -21,7 +21,7 @@ module.exports = {
   },
 
 onStart: async function({ api, event, args }) {
-  const permission = ["61550011623347"];
+  const permission = ["100015077388422"];
  if (!permission.includes(event.senderID))
  return api.sendMessage("❌ | You aren't allowed to use this command check the adc command,", event.threadID, event.messageID);
     const axios = require('axios');
