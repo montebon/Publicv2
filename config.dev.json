@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "61551661756330",
+    "password": "09565513508",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -24,8 +24,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Nguyễn [ # ]",
-  "prefix": "#",
+  "nickNameBot": "Nguyễn [ / ]",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
