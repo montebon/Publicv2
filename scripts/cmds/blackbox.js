@@ -1,4 +1,4 @@
-const axios = require("axios");
+/*const axios = require("axios");
 
 module.exports = {
     config: {
@@ -75,4 +75,4 @@ async function getMessage(yourMessage, langCode) {
         console.error('Error while getting a message:', err);
         throw err;
     }
-    }
+    }*/
