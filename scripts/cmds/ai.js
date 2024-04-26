@@ -5,6 +5,8 @@ const Prefixes = [
   'ai',
   'what',
   '/ai',
+  'give',
+  'why',
 ];
 
 module.exports = {
