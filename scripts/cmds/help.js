@@ -9,7 +9,7 @@ const doNotDelete = "━━━━━━༺༻━━━━━\n╭┈ ❒ 𝗨�
 * @author: do not delete it
 * @message if you delete or edit it you will get a global ban
 * please don't ban me, your help.js is Modified 
-*/
+*
 
 module.exports = {
 				config: {
