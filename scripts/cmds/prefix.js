@@ -1,4 +1,4 @@
-const fs = require("fs-extra");
+/*const fs = require("fs-extra");
 const { utils } = global;
 
 module.exports = {
@@ -88,4 +88,4 @@ module.exports = {
         return message.reply(getLang("myPrefix", global.GoatBot.config.prefix, utils.getPrefix(event.threadID)));
       };
   }
-};
+}; */
