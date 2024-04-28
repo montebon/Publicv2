@@ -29,7 +29,7 @@ module.exports = {
 
   langs: {
     en: {
-      final: "",
+      final: "Made by ChatGpt",
       loading: "Wait for the answer... "
     }
   },
