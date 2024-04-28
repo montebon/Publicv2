@@ -16,6 +16,6 @@ onChat: async function({
 	message,
 	getLang
 }) {
-	if (event.body && event.body.toLowerCase() == "help") return message.reply("command list of this bot\n\n1. ai \n2. remini\n3. uid\n4. checkgc(admin only)\n5. alldl\n6. antiout\n7. acp(accept friend req)\n8. config(admin only) \n9. confess\n\nuse prefix to execute the command ex: +confess\nThis bot made by:  https://www.facebook.com/ken.dqox");
+	if (event.body && event.body.toLowerCase() == "help") return message.reply("command list of this bot\n\n1. ai \n2. remini\n3. uid\n4. checkgc(admin only)\n5. alldl\n6. antiout\n7. acp(accept friend req)\n8. config(admin only) \n9. confess\n10. guessnumber\n\nuse prefix to execute the command ex: +confess\nThis bot made by:  https://www.facebook.com/ken.dqox");
 }
 };
