@@ -1,3 +1,6 @@
+const Prefixes = [
+  '+help',
+];
 
 module.exports = {
 	config: {
