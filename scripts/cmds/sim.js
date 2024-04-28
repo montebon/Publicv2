@@ -29,7 +29,7 @@ module.exports = {
 			const yourMessage = args.join(" ");
 			try {
 				const responseMessage = await getMessage(yourMessage);
-				return message.reply(`━━━━━━━━━━━━━━━\n${responseMessage}\n━━━━━━━━━━━━━━━`);
+				return message.reply(`{responseMessage}`);
 			}
 			catch (err) {
 				console.log(err)
